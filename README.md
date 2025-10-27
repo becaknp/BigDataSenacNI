@@ -1,2 +1,2 @@
 # BigDataSenacNI
-bleble
+Meus exercícios do curso BigData do Senac
