@@ -17,3 +17,31 @@ else:
     area = 2*altura*(comprimento + largura)
     caixa = area/1.5
     print(f'Serão necessárias {caixa:.0f} caixas de azulejos.')
+
+
+#Professor
+
+print("--- 2. CAIXAS DE AZULEJOS ---")
+try:
+    AREA_CAIXA = 1.5
+    
+    comprimento = float(input("Comprimento da cozinha (m): "))
+    largura = float(input("Largura da cozinha (m): "))
+    altura = float(input("Altura da cozinha (m): "))
+    
+    area_total_paredes = (2 * comprimento * altura) + (2 * largura * altura)
+    num_caixas_float = area_total_paredes / AREA_CAIXA
+    
+    num_caixas_inteiro = int(num_caixas_float)
+    
+    # Lógica de Arredondamento (IF/ELSE)
+    if num_caixas_float > num_caixas_inteiro:
+        num_caixas_final = num_caixas_inteiro + 1
+    else:
+        num_caixas_final = num_caixas_inteiro
+        
+    print(f"Resultado:\n  Área total: {area_total_paredes:.2f} m²")
+    print(f"  Caixas necessárias: {num_caixas_final}\n")
+
+except ValueError:
+    print("ERRO: Por favor, digite apenas números válidos.")

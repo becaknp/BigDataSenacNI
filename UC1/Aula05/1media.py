@@ -1,23 +1,14 @@
-print("--- Cálculo de Média Escolar ---")
+print("--- 6. POSITIVO OU NEGATIVO ---")
+try:
+    valor = float(input("Digite um valor numérico: "))
+    
+    # PONTO DE DECISÃO
+    if valor >= 0:
+        resultado = "Positivo (inclui zero)"
+    else:
+        resultado = "Negativo"
+        
+    print(f"Resultado:\n  O valor {valor} é: {resultado}\n")
 
-for i in range(10):
-    print(f"\nAluno {i + 1} de 10")
-    try:
-        n1 = float(input("Digite a 1ª nota: "))
-        n2 = float(input("Digite a 2ª nota: "))
-        media = (n1 + n2) / 2
-
-        if media >= 7:
-            status = "Aprovado"
-        elif media >= 5:
-            status = "Recuperação"
-        else:
-            status = "Reprovado"
-
-        print(f"Média = {media:.1f} → {status}")
-
-    except ValueError:
-        print("Entrada inválida. Tente novamente.")
-
-
-
+except ValueError:
+    print("ERRO: Digite apenas números válidos.")
