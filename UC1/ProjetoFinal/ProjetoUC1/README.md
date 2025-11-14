@@ -1,4 +1,4 @@
-Projeto: Sistema de Pedidos - Restaurante Tanoshimi
+<h1>Projeto: Sistema de Pedidos - Restaurante Tanoshimi
 
 Descrição
 --------
@@ -83,4 +83,6 @@ Observações
 Créditos
 --------
 Desenvolvido por: Rebeca Knupp da Silva
-Curso/Módulo: Analista de dados big data science — Módulo: DESENVOLVER ALGORITMOS, VERSIONAMENTOS E LINGUAGEM DE CONSULTA ESTRUTURADA
+Curso/Módulo: Analista de dados big data science 
+Módulo: DESENVOLVER ALGORITMOS, VERSIONAMENTOS E LINGUAGEM DE CONSULTA ESTRUTURADA
+
