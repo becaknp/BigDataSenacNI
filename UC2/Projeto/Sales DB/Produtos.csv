@@ -1,0 +1,61 @@
+Product_ID,Product_Name,Category,Unit_Price,Cost_Price,Supplier_ID
+1,iPhone 14 Pro,Electronics,999.99,699.99,1
+2,Dyson V11 Vacuum,Home Appliances,499.99,349.99,2
+3,Levi's 501 Jeans,Clothing,69.99,48.99,3
+4,The Da Vinci Code,Books,15.99,8.99,4
+5,Neutrogena Skincare Set,Beauty Products,89.99,62.99,5
+6,Wilson Evolution Basketball,Sports,29.99,20.99,6
+7,MacBook Pro 16-inch,Electronics,2499.99,1749.99,7
+8,Blueair Classic 480i,Home Appliances,599.99,419.99,8
+9,Nike Air Force 1,Clothing,89.99,62.99,3
+10,Dune by Frank Herbert,Books,25.99,14.99,4
+11,Chanel No. 5 Perfume,Beauty Products,129.99,90.99,5
+12,Babolat Pure Drive Tennis Racket,Sports,199.99,139.99,6
+13,Samsung Galaxy Tab S8,Electronics,749.99,524.99,1
+14,Keurig K-Elite Coffee Maker,Home Appliances,189.99,132.99,8
+15,North Face Down Jacket,Clothing,249.99,174.99,9
+16,Salt; Fat; Acid - Heat by Samin Nosrat,Books,35.99,19.99,4
+17,Dyson Supersonic Hair Dryer,Beauty Products,399.99,279.99,5
+18,Manduka PRO Yoga Mat,Sports,119.99,83.99,6
+19,Garmin Forerunner 945,Electronics,499.99,349.99,7
+20,Ninja Professional Blender,Home Appliances,99.99,69.99,8
+21,Zara Summer Dress,Clothing,59.99,41.99,3
+22,Gone Girl by Gillian Flynn,Books,22.99,12.99,4
+23,Olay Regenerist Face Cream,Beauty Products,49.99,34.99,5
+24,Adidas FIFA World Cup Football,Sports,29.99,20.99,6
+25,Bose QuietComfort 35 Headphones,Electronics,299.99,209.99,1
+26,Panasonic NN-SN966S Microwave,Home Appliances,179.99,125.99,8
+27,Adidas Ultraboost Shoes,Clothing,179.99,125.99,3
+28,Pride and Prejudice by Jane Austen,Books,12.99,6.99,4
+29,MAC Ruby Woo Lipstick,Beauty Products,29.99,20.99,5
+30,Nike Air Zoom Pegasus 37,Sports,129.99,90.99,6
+31,Sony WH-1000XM4 Headphones,Electronics,349.99,244.99,1
+32,Instant Pot Duo,Home Appliances,89.99,62.99,8
+33,Under Armour HeatGear T-Shirt,Clothing,29.99,20.99,3
+34,1984 by George Orwell,Books,19.99,10.99,4
+35,L'Oreal Revitalift Serum,Beauty Products,39.99,27.99,5
+36,Peloton Bike,Sports,1895.00,1326.50,6
+37,Apple Watch Series 8,Electronics,399.99,279.99,7
+38,Roomba i7+,Home Appliances,799.99,559.99,8
+39,Columbia Fleece Jacket,Clothing,59.99,41.99,9
+40,Harry Potter and the Sorcerer's Stone,Books,24.99,13.99,4
+41,Estee Lauder Advanced Night Repair,Beauty Products,105.00,73.50,5
+42,Fitbit Charge 5,Sports,129.99,90.99,6
+43,GoPro HERO10 Black,Electronics,399.99,279.99,7
+44,Nespresso VertuoPlus,Home Appliances,199.99,139.99,8
+45,Patagonia Better Sweater,Clothing,139.99,97.99,9
+46,Becoming by Michelle Obama,Books,32.50,18.25,4
+47,Clinique Moisture Surge,Beauty Products,52.00,36.40,5
+48,Yeti Rambler Tumbler,Sports,39.99,27.99,6
+49,Kindle Paperwhite,Electronics,129.99,90.99,1
+50,Breville Smart Oven,Home Appliances,299.99,209.99,8
+51,Ray-Ban Aviator Sunglasses,Clothing,154.99,108.49,3
+52,The Silent Patient by Alex Michaelides,Books,26.99,14.99,4
+53,Shiseido Ultimate Sun Protector,Beauty Products,49.00,34.30,5
+54,Titleist Pro V1 Golf Balls,Sports,49.99,34.99,6
+55,Anker PowerCore Portable Charger,Electronics,59.99,41.99,1
+56,KitchenAid Artisan Stand Mixer,Home Appliances,499.99,349.99,8
+57,Calvin Klein Boxer Briefs,Clothing,29.99,20.99,3
+58,Educated by Tara Westover,Books,28.00,15.40,4
+59,Anastasia Beverly Hills Brow Wiz,Beauty Products,23.00,16.10,5
+60,Hyperice Hypervolt Massager,Sports,349.00,244.30,6

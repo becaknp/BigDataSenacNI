@@ -1,0 +1,121 @@
+Customer_ID,Customer_Name,Email,Region
+1,James Wilson,james.wilson@email.com,North America
+2,Sophie Martin,sophie.martin@email.com,Europe
+3,Kenji Tanaka,kenji.tanaka@email.com,Asia
+4,Emily Davis,emily.davis@email.com,North America
+5,Luca Rossi,luca.rossi@email.com,Europe
+6,Mei Chen,mei.chen@email.com,Asia
+7,Michael Brown,michael.brown@email.com,North America
+8,Isabella Garcia,isabella.garcia@email.com,Europe
+9,Ravi Kumar,ravi.kumar@email.com,Asia
+10,Jessica Lee,jessica.lee@email.com,North America
+11,Carlos Silva,carlos.silva@email.com,Europe
+12,Yuki Sato,yuki.sato@email.com,Asia
+13,Daniel Taylor,daniel.taylor@email.com,North America
+14,Emma Müller,emma.muller@email.com,Europe
+15,Ananya Patel,ananya.patel@email.com,Asia
+16,Olivia Harris,olivia.harris@email.com,North America
+17,Mateo Hernandez,mateo.hernandez@email.com,Europe
+18,Haruto Suzuki,haruto.suzuki@email.com,Asia
+19,Sophia Clark,sophia.clark@email.com,North America
+20,Liam Schmidt,liam.schmidt@email.com,Europe
+21,Aarav Sharma,aarav.sharma@email.com,Asia
+22,Mia Johnson,mia.johnson@email.com,North America
+23,Francesco Russo,francesco.russo@email.com,Europe
+24,Hiroshi Yamamoto,hiroshi.yamamoto@email.com,Asia
+25,Noah White,noah.white@email.com,North America
+26,Charlotte Fischer,charlotte.fischer@email.com,Europe
+27,Suresh Venkat,suresh.venkat@email.com,Asia
+28,Amelia Thomas,amelia.thomas@email.com,North America
+29,Elena Moretti,elena.moretti@email.com,Europe
+30,Wei Zhang,wei.zhang@email.com,Asia
+31,Logan Anderson,logan.anderson@email.com,North America
+32,Anna Weber,anna.weber@email.com,Europe
+33,Priya Reddy,priya.reddy@email.com,Asia
+34,Ethan Moore,ethan.moore@email.com,North America
+35,Giovanni Conti,giovanni.conti@email.com,Europe
+36,Min-jun Kim,minjun.kim@email.com,Asia
+37,Ava Walker,ava.walker@email.com,North America
+38,Lena Huber,lena.huber@email.com,Europe
+39,Raj Mehta,raj.mehta@email.com,Asia
+40,Lucas King,lucas.king@email.com,North America
+41,Sophie Leroy,sophie.leroy@email.com,Europe
+42,Takeshi Kobayashi,takeshi.kobayashi@email.com,Asia
+43,Harper Scott,harper.scott@email.com,North America
+44,Nina Keller,nina.keller@email.com,Europe
+45,Vikram Singh,vikram.singh@email.com,Asia
+46,Grace Adams,grace.adams@email.com,North America
+47,Lara Müller,lara.muller@email.com,Europe
+48,Hina Ali,hina.ali@email.com,Asia
+49,Jackson Wright,jackson.wright@email.com,North America
+50,Julia Schmidt,julia.schmidt@email.com,Europe
+51,Arjun Nair,arjun.nair@email.com,Asia
+52,Lily Evans,lily.evans@email.com,North America
+53,Maria Rossi,maria.rossi@email.com,Europe
+54,Yong Park,yong.park@email.com,Asia
+55,David Martinez,david.martinez@email.com,North America
+56,Clara Fischer,clara.fischer@email.com,Europe
+57,Anil Gupta,anil.gupta@email.com,Asia
+58,Chloe Turner,chloe.turner@email.com,North America
+59,Giulia Romano,giulia.romano@email.com,Europe
+60,Ji-hoon Lee,jihoon.lee@email.com,Asia
+61,Mason Harris,mason.harris@email.com,North America
+62,Laura Weber,laura.weber@email.com,Europe
+63,Sanjay Verma,sanjay.verma@email.com,Asia
+64,Avery Young,avery.young@email.com,North America
+65,Monica Ferrari,monica.ferrari@email.com,Europe
+66,Ryota Suzuki,ryota.suzuki@email.com,Asia
+67,Ella Baker,ella.baker@email.com,North America
+68,Paul Richter,paul.richter@email.com,Europe
+69,Neha Kapoor,neha.kapoor@email.com,Asia
+70,Scarlett Nelson,scarlett.nelson@email.com,North America
+71,Eva Hoffmann,eva.hoffmann@email.com,Europe
+72,Kaito Tanaka,kaito.tanaka@email.com,Asia
+73,Henry Mitchell,henry.mitchell@email.com,North America
+74,Sabine Bauer,sabine.bauer@email.com,Europe
+75,Deepak Joshi,deepak.joshi@email.com,Asia
+76,Victoria Carter,victoria.carter@email.com,North America
+77,Chiara Moretti,chiara.moretti@email.com,Europe
+78,Maya Watanabe,maya.watanabe@email.com,Asia
+79,Leo Perez,leo.perez@email.com,North America
+80,Hannah Schulz,hannah.schulz@email.com,Europe
+81,Rohan Malhotra,rohan.malhotra@email.com,Asia
+82,Zoe Parker,zoe.parker@email.com,North America
+83,Isabelle Dupont,isabelle.dupont@email.com,Europe
+84,Sora Kim,sora.kim@email.com,Asia
+85,Caleb Stewart,caleb.stewart@email.com,North America
+86,Lea Schmidt,lea.schmidt@email.com,Europe
+87,Rajat Agarwal,rajat.agarwal@email.com,Asia
+88,Natalie Reed,natalie.reed@email.com,North America
+89,Claire Bernard,claire.bernard@email.com,Europe
+90,Ken Nguyen,ken.nguyen@email.com,Asia
+91,Gabriel Rivera,gabriel.rivera@email.com,North America
+92,Elisabeth Wagner,elisabeth.wagner@email.com,Europe
+93,Vinod Rajan,vinod.rajan@email.com,Asia
+94,Addison Morgan,addison.morgan@email.com,North America
+95,Fiona Moreau,fiona.moreau@email.com,Europe
+96,Yusuke Sato,yusuke.sato@email.com,Asia
+97,Evan Cooper,evan.cooper@email.com,North America
+98,Greta Huber,greta.huber@email.com,Europe
+99,Meera Iyer,meera.iyer@email.com,Asia
+100,Landon Brooks,landon.brooks@email.com,North America
+101,Simone Lefevre,simone.lefevre@email.com,Europe
+102,Jae-hyun Park,jaehyun.park@email.com,Asia
+103,Stella Gray,stella.gray@email.com,North America
+104,Klaus Klein,klaus.klein@email.com,Europe
+105,Pooja Desai,pooja.desai@email.com,Asia
+106,Hazel Bennett,hazel.bennett@email.com,North America
+107,Camille Rousseau,camille.rousseau@email.com,Europe
+108,Ming Chen,ming.chen@email.com,Asia
+109,Jaxon Simmons,jaxon.simmons@email.com,North America
+110,Helga Schneider,helga.schneider@email.com,Europe
+111,Rajiv Menon,rajiv.menon@email.com,Asia
+112,Piper Hayes,piper.hayes@email.com,North America
+113,Mathilde Blanc,mathilde.blanc@email.com,Europe
+114,Hiroto Nakamura,hiroto.nakamura@email.com,Asia
+115,Aubrey Foster,aubrey.foster@email.com,North America
+116,Ingrid Krause,ingrid.krause@email.com,Europe
+117,Amitabh Chatterjee,amitabh.chatterjee@email.com,Asia
+118,Maya Perry,maya.perry@email.com,North America
+119,Chloé Martin,chloe.martin@email.com,Europe
+120,Tae-hyun Kim,taehyun.kim@email.com,Asia
